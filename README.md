@@ -1,0 +1,2 @@
+ I am enthusiastic about learning the field of data science. I have acquired some skills such as Python, machine learning, web scraping, Excel, statistical analysis, SQL, and Power BI.Data science is the exciting field, because of interest on Mathes. When regular Patrice doing on math, if there is a new problem to solve and the problem solved by own way then the excitement will get is limitless. In data science field same situation, while learning algorithms applications of Mathes understood, in analytics feels same excitement.
+ 
